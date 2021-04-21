@@ -1,4 +1,4 @@
-package com.appsdeveloperblog.app.ws.userservice.userserviceimpl;
+package com.appsdeveloperblog.app.ws.userservice;
 
 import com.appsdeveloperblog.app.ws.ui.model.request.UserDetailsRequestModel;
 import com.appsdeveloperblog.app.ws.ui.model.response.UserRest;
